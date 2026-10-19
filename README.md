@@ -1,26 +1,104 @@
-# KDataInsights Portfolio
+ <div align="center">
 
-A responsive, single-page portfolio for Kevin Kipyegon Korir, built with HTML, CSS, and JavaScript for GitHub Pages.
+# ✦ KDataInsights
 
-## Included
-- `index.html` — portfolio sections and content
-- `styles.css` — responsive dark navy / electric blue design
-- `script.js` — mobile navigation, reveal effects, back-to-top button
-- `assets/profile.jpg` — supplied profile photograph
-- `assets/Kevin_Korir_CV.pdf` — supplied CV
+### Turning Data Into Decisions.
 
-## Publish with GitHub Pages
-1. Create a repository on GitHub named **`kevinkorir26.github.io`** (for a user site) or use an existing repository.
-2. Upload the *contents* of this folder to the repository root. `index.html` must be at the root, not inside another folder.
-3. On GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/(root)`, then Save.
-5. Wait for GitHub Pages to publish. For a user site the URL will be `https://kevinkorir26.github.io/`.
+**Kevin Kipyegon Korir**  
+*Data Analyst | Data Scientist | Statistician*
 
-If you use a project repository with a different name, the URL is normally `https://kevinkorir26.github.io/REPOSITORY-NAME/`.
+Transforming raw data into meaningful insights, interactive visualizations, and data-driven solutions.
 
-## Before publishing
-- The project cards currently link to your GitHub profile. Update them to individual project repository URLs when available.
-- Check that the dates and CV are current before making the site public.
-- The CV contains personal contact information and referee details. Publish it only if you are comfortable sharing those details publicly.
-- The Google Fonts connection is optional; the page will fall back to system fonts if unavailable.
+[🌐 **VIEW MY LIVE PORTFOLIO**](https://kevinkorir26.github.io/) · [📄 **DOWNLOAD MY CV**](assets/Kevin_Korir_CV.pdf) · [💻 **GITHUB PROFILE**](https://github.com/kevinkorir26)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm Kevin Kipyegon Korir, a data professional based in Nairobi, Kenya, with a Bachelor of Science in Statistics from Moi University.
+
+I have practical experience in statistical research, survey data management, data quality assurance, data analysis, and reporting. I'm passionate about using data science and analytics to uncover patterns, solve problems, and support evidence-based decision-making.
+
+My goal is simple: **turn complex data into clear, actionable insights.**
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python, SQL, R |
+| Data Analysis | Pandas, NumPy, Excel |
+| Visualization | Power BI, Matplotlib, Seaborn |
+| Statistics | SPSS, Stata, Statistical Analysis |
+| Machine Learning | Scikit-learn, Random Forest, Predictive Modelling |
+| Research | Survey Design, Data Cleaning, Data Validation, Reporting |
+
+## 🚀 Featured Projects
+
+### 🔍 1. Fraud Detection Using Machine Learning
+
+A fraud detection project using the Random Forest algorithm to identify potentially fraudulent patterns in data.
+
+**Technologies:** Python · Scikit-learn · Machine Learning
+
+[Explore my projects on GitHub →](https://github.com/kevinkorir26)
+
+### 🏏 2. IPL Win Probability Prediction
+
+A cricket analytics project using IPL match and ball-by-ball datasets to investigate match situations and predict the probability of a team winning.
+
+**Focus:** Data Analysis · Sports Analytics · Predictive Modelling
+
+[Explore my projects on GitHub →](https://github.com/kevinkorir26)
+
+> Individual project repository links and live demonstrations can be added as they become available.
+
+## 💼 Professional Experience
+
+**Research Assistant — Kenya National Bureau of Statistics (KNBS)**  
+Supported national statistical surveys, data collection, validation, quality assurance, statistical summaries, and analytical reporting.
+
+**Data Analyst (Attachment) — KNBS**  
+Worked with trade datasets, data verification, economic indicators, and visual summaries.
+
+**Loans Officer — Platinum Credit**  
+Assessed loan applications, evaluated creditworthiness, and supported client relationships and portfolio growth.
+
+## 🎓 Education & Training
+
+- **Bachelor of Science in Statistics** — Moi University
+- **Data Science with Python** — Sankyana Consultancy Service
+
+## 📄 Download My CV
+
+Interested in my qualifications and professional background?
+
+<div align="center">
+
+### Explore my experience and qualifications
+
+[⬇️ **DOWNLOAD MY CV (PDF)**](assets/Kevin_Korir_CV.pdf)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm open to opportunities in data analytics, business intelligence, statistical research, and data science.
+
+- 📧 **Email:** [kevinkipyegonk@gmail.com](mailto:kevinkipyegonk@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
+- 💻 **GitHub:** [@kevinkorir26](https://github.com/kevinkorir26)
+
+---
+
+<div align="center">
+
+### Have a data challenge? Let's solve it together.
+
+[🌐 **VISIT MY PORTFOLIO**](https://kevinkorir26.github.io/) · [📧 **CONTACT ME**](mailto:kevinkipyegonk@gmail.com)
+
+*© Kevin Kipyegon Korir | KDataInsights*
+
+</div>
 
