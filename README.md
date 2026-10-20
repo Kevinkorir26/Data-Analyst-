@@ -9,7 +9,7 @@
 
 Transforming raw data into meaningful insights, interactive visualizations, and data-driven solutions.
 
-[🌐 **VIEW MY LIVE PORTFOLIO**](https://kevinkorir26.github.io/) · [📄 **DOWNLOAD MY CV**](assets/Kevin_Korir_CV.pdf) · [💻 **GITHUB PROFILE**](https://github.com/kevinkorir26)
+[🌐 **VIEW MY LIVE PORTFOLIO**](https://Data-Analyst.github.io/) · [📄 **DOWNLOAD MY CV**](assets/Kevin_Korir_CV.pdf) · [💻 **GITHUB PROFILE**](https://github.com/kevinkorir26)
 
 </div>
 
