@@ -1,8 +1,8 @@
- # ✦ KDataInsights | Data Analyst Portfolio
-
 <div align="center">
 
-# **Kevin Kipyegon Korir**
+# ✦ KDataInsights | Data Analyst Portfolio
+
+**Kevin Kipyegon Korir**
 
 ### Data Analyst | Business Intelligence | Statistical Analysis
 
@@ -10,7 +10,7 @@
 
 Transforming raw data into actionable insights through data analysis, statistical modelling, interactive visualizations, and data-driven storytelling.
 
-[🌐 VIEW MY LIVE PORTFOLIO](https://kevinkorir26.github.io/) · [💻 GITHUB PROFILE](https://github.com/kevinkorir26) · [📄 DOWNLOAD MY CV](assets/Kevin_Korir_CV.pdf)
+[🌐 VIEW MY LIVE PORTFOLIO](https://kevinkorir26.github.io/Data-Analyst-Portfolio/) · [💻 GITHUB PROFILE](https://github.com/kevinkorir26) · [📄 DOWNLOAD MY CV](assets/Kevin_Korir_CV.pdf)
 
 📍 Nairobi, Kenya | 📞 0758241234
 
@@ -126,7 +126,7 @@ I am open to opportunities in **Data Analytics, Business Intelligence, Financial
 - 📧 **Email:** [kevinkipyegonk@gmail.com](mailto:kevinkipyegonk@gmail.com)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
 - 💻 **GitHub:** [kevinkorir26](https://github.com/kevinkorir26)
-- 🌐 **Portfolio:** [kevinkorir26.github.io](https://kevinkorir26.github.io/)
+- 🌐 **Portfolio:** [Visit my Data Analyst Portfolio](https://kevinkorir26.github.io/Data-Analyst-Portfolio/)
 
 ---
 
@@ -136,11 +136,8 @@ I am open to opportunities in **Data Analytics, Business Intelligence, Financial
 
 **Turning Data Into Decisions.**
 
-[🌐 Visit My Portfolio](https://kevinkorir26.github.io/) · [📧 Contact Me](mailto:kevinkipyegonk@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
+[🌐 Visit My Portfolio](https://kevinkorir26.github.io/Data-Analyst-Portfolio/) · [📧 Contact Me](mailto:kevinkipyegonk@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
 
 © Kevin Kipyegon Korir | KDataInsights
 
 </div>
-
-</div>
-
