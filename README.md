@@ -1,15 +1,18 @@
- <div align="center">
+ # ✦ KDataInsights | Data Analyst Portfolio
 
-# ✦ KDataInsights
+<div align="center">
 
-### Turning Data Into Decisions.
+# **Kevin Kipyegon Korir**
 
-**Kevin Kipyegon Korir**  
-*Data Analyst | Data Scientist | Statistician*
+### Data Analyst | Business Intelligence | Statistical Analysis
 
-Transforming raw data into meaningful insights, interactive visualizations, and data-driven solutions.
+**Turning Data Into Decisions.**
 
-[🌐 **VIEW MY LIVE PORTFOLIO**](https://Data-Analyst.github.io/) · [📄 **DOWNLOAD MY CV**](assets/Kevin_Korir_CV.pdf) · [💻 **GITHUB PROFILE**](https://github.com/kevinkorir26)
+Transforming raw data into actionable insights through data analysis, statistical modelling, interactive visualizations, and data-driven storytelling.
+
+[🌐 VIEW MY LIVE PORTFOLIO](https://kevinkorir26.github.io/) · [💻 GITHUB PROFILE](https://github.com/kevinkorir26) · [📄 DOWNLOAD MY CV](assets/Kevin_Korir_CV.pdf)
+
+📍 Nairobi, Kenya | 📞 0758241234
 
 </div>
 
@@ -17,53 +20,90 @@ Transforming raw data into meaningful insights, interactive visualizations, and 
 
 ## 👨‍💻 About Me
 
-I'm Kevin Kipyegon Korir, a data professional based in Nairobi, Kenya, with a Bachelor of Science in Statistics from Moi University.
+I am **Kevin Kipyegon Korir**, a Data Analyst with a Bachelor of Science in Statistics from Moi University and practical experience in statistical research, survey data management, data quality assurance, and analytical reporting.
 
-I have practical experience in statistical research, survey data management, data quality assurance, data analysis, and reporting. I'm passionate about using data science and analytics to uncover patterns, solve problems, and support evidence-based decision-making.
+I specialize in transforming complex datasets into meaningful insights that support informed decision-making. My interests include business intelligence, financial analytics, predictive modelling, and data visualization.
 
-My goal is simple: **turn complex data into clear, actionable insights.**
+My mission is simple: **turn data into insights, insights into decisions, and decisions into impact.**
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
+| Category | Tools and Skills |
 |---|---|
 | Programming | Python, SQL, R |
 | Data Analysis | Pandas, NumPy, Excel |
-| Visualization | Power BI, Matplotlib, Seaborn |
-| Statistics | SPSS, Stata, Statistical Analysis |
-| Machine Learning | Scikit-learn, Random Forest, Predictive Modelling |
-| Research | Survey Design, Data Cleaning, Data Validation, Reporting |
+| Data Visualization | Power BI, Matplotlib, Seaborn |
+| Statistical Analysis | SPSS, Stata, Statistical Modelling |
+| Machine Learning | Scikit-learn, Random Forest, Predictive Analytics |
+| Data Preparation | Data Cleaning, Data Validation, Data Transformation |
+| Research & Reporting | Survey Data Management, Statistical Reporting, Data Quality Assurance |
+| Business Intelligence | KPI Analysis, Trend Analysis, Data-Driven Decision-Making |
 
 ## 🚀 Featured Projects
 
-### 🔍 1. Fraud Detection Using Machine Learning
+### 🛒 1. E-Commerce Transaction Insights Hub
 
-A fraud detection project using the Random Forest algorithm to identify potentially fraudulent patterns in data.
+An exploratory and forensic data analysis project designed to uncover transaction patterns, operational weaknesses, revenue opportunities, and promotional performance issues in an e-commerce business.
 
-**Technologies:** Python · Scikit-learn · Machine Learning
+**Key focus areas:**
+- Transaction data exploration and cleaning.
+- Revenue and sales performance analysis.
+- Promotional effectiveness and business insights.
+- Data-driven recommendations for business improvement.
 
-[Explore my projects on GitHub →](https://github.com/kevinkorir26)
+**Tools:** Python · Pandas · NumPy · Jupyter Notebook · Data Visualization
 
-### 🏏 2. IPL Win Probability Prediction
+[Explore my GitHub repositories →](https://github.com/kevinkorir26)
 
-A cricket analytics project using IPL match and ball-by-ball datasets to investigate match situations and predict the probability of a team winning.
+### 🔍 2. Fraud Detection Using Machine Learning
 
-**Focus:** Data Analysis · Sports Analytics · Predictive Modelling
+A machine learning project using the Random Forest algorithm to identify potentially fraudulent transactions and uncover patterns associated with suspicious activity.
 
-[Explore my projects on GitHub →](https://github.com/kevinkorir26)
+**Key focus areas:**
+- Data preprocessing and feature analysis.
+- Model training and evaluation.
+- Fraud pattern identification.
+- Predictive analytics.
 
-> Individual project repository links and live demonstrations can be added as they become available.
+**Tools:** Python · Pandas · Scikit-learn · Random Forest
+
+[Explore my GitHub repositories →](https://github.com/kevinkorir26)
+
+### 🏏 3. IPL Win Probability Prediction
+
+A cricket analytics project using Indian Premier League match and ball-by-ball datasets to explore match dynamics and predict a team's probability of winning.
+
+**Key focus areas:**
+- Match and player performance analysis.
+- Ball-by-ball data exploration.
+- Win probability modelling.
+- Sports data visualization.
+
+**Tools:** Python · Pandas · NumPy · Machine Learning · Data Visualization
+
+[Explore my GitHub repositories →](https://github.com/kevinkorir26)
+
+*Visit my GitHub profile to explore available source code, notebooks, and additional projects.*
 
 ## 💼 Professional Experience
 
-**Research Assistant — Kenya National Bureau of Statistics (KNBS)**  
-Supported national statistical surveys, data collection, validation, quality assurance, statistical summaries, and analytical reporting.
+### Research Assistant — Kenya National Bureau of Statistics (KNBS)
 
-**Data Analyst (Attachment) — KNBS**  
-Worked with trade datasets, data verification, economic indicators, and visual summaries.
+- Participated in national statistical surveys and data collection activities.
+- Supported data validation, quality assurance, and survey data management.
+- Contributed to accurate data recording and statistical reporting.
 
-**Loans Officer — Platinum Credit**  
-Assessed loan applications, evaluated creditworthiness, and supported client relationships and portfolio growth.
+### Data Analyst Intern/Attachment — KNBS
+
+- Supported the verification and management of trade-related datasets.
+- Assisted with economic data analysis and data quality checks.
+- Contributed to the preparation of statistical summaries and reports.
+
+### Loans Officer — Platinum Credit
+
+- Assessed loan applications and reviewed client financial information.
+- Supported credit assessment, client relationships, and portfolio management.
+- Applied analytical thinking to financial decision-making.
 
 ## 🎓 Education & Training
 
@@ -72,23 +112,21 @@ Assessed loan applications, evaluated creditworthiness, and supported client rel
 
 ## 📄 Download My CV
 
-Interested in my qualifications and professional background?
+Interested in my qualifications, experience, and technical capabilities?
 
-<div align="center">
+[⬇️ Download My CV (PDF)](assets/Kevin_Korir_CV.pdf)
 
-### Explore my experience and qualifications
-
-[⬇️ **DOWNLOAD MY CV (PDF)**](assets/Kevin_Korir_CV.pdf)
-
-</div>
+*Ensure that `Kevin_Korir_CV.pdf` exists inside the `assets` folder in your repository.*
 
 ## 🤝 Let's Connect
 
-I'm open to opportunities in data analytics, business intelligence, statistical research, and data science.
+I am open to opportunities in **Data Analytics, Business Intelligence, Financial Analytics, Statistical Research, and Data Science.**
 
+- 📞 **Phone:** [0758241234](tel:0758241234)
 - 📧 **Email:** [kevinkipyegonk@gmail.com](mailto:kevinkipyegonk@gmail.com)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
-- 💻 **GitHub:** [@kevinkorir26](https://github.com/kevinkorir26)
+- 💻 **GitHub:** [kevinkorir26](https://github.com/kevinkorir26)
+- 🌐 **Portfolio:** [kevinkorir26.github.io](https://kevinkorir26.github.io/)
 
 ---
 
@@ -96,9 +134,13 @@ I'm open to opportunities in data analytics, business intelligence, statistical 
 
 ### Have a data challenge? Let's solve it together.
 
-[🌐 **VISIT MY PORTFOLIO**](https://kevinkorir26.github.io/) · [📧 **CONTACT ME**](mailto:kevinkipyegonk@gmail.com)
+**Turning Data Into Decisions.**
 
-*© Kevin Kipyegon Korir | KDataInsights*
+[🌐 Visit My Portfolio](https://kevinkorir26.github.io/) · [📧 Contact Me](mailto:kevinkipyegonk@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/kevin-datainsights-7bb23625b/)
+
+© Kevin Kipyegon Korir | KDataInsights
+
+</div>
 
 </div>
 
