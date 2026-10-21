@@ -10,7 +10,7 @@
 
 Transforming raw data into actionable insights through data analysis, statistical modelling, interactive visualizations, and data-driven storytelling.
 
-[🌐 VIEW MY LIVE PORTFOLIO](https://kevinkorir26.github.io/Data-Analyst-Portfolio/) · [💻 GITHUB PROFILE](https://github.com/kevinkorir26) · [📄 DOWNLOAD MY CV](assets/Kevin_Korir_CV.pdf)
+[🌐 VIEW MY LIVE PORTFOLIO](https://kevinkorir26.github.io/Data-Analyst-/) · [💻 GITHUB PROFILE](https://github.com/kevinkorir26) · [📄 DOWNLOAD MY CV](assets/Kevin_Korir_CV.pdf)
 
 📍 Nairobi, Kenya | 📞 0758241234
 
