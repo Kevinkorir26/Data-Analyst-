@@ -116,7 +116,6 @@ Interested in my qualifications, experience, and technical capabilities?
 
 [⬇️ Download My CV (PDF)](assets/Kevin_Korir_CV.pdf)
 
-*Ensure that `Kevin_Korir_CV.pdf` exists inside the `assets` folder in your repository.*
 
 ## 🤝 Let's Connect
 
